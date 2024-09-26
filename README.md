@@ -1,7 +1,9 @@
-РУсский перевод книги Hacking XBOX 
-Взлом XBOX
-
-by KONOVSLOV
+<p><strong>Hacking XBOX -&nbsp;</strong><em>Andrew &ldquo;bunnie&rdquo; Huang</em></p>
+<p><strong>Взлом XBOX -&nbsp;</strong><em>Эндрю &laquo;Банни&raquo; Хуанг</em></p>
+<p>Русский перевод книги от <em>Коновалова Дениса</em></p>
+<p><em>by KONOVSLOV</em></p>
+<p>&nbsp;</p>
+<p><em>RUS - на русском языке</em></p>
 
 
 ![image](https://github.com/user-attachments/assets/fb261d76-8f99-4e9d-975c-97f430631a40)
