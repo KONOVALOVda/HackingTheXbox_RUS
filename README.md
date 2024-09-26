@@ -1,7 +1,7 @@
 <p><strong>Hacking XBOX -&nbsp;</strong><em>Andrew &ldquo;bunnie&rdquo; Huang</em></p>
 <p><strong>Взлом XBOX -&nbsp;</strong><em>Эндрю &laquo;Банни&raquo; Хуанг</em></p>
 <p>Русский перевод книги от <em>Коновалова Дениса</em></p>
-<p><em>by KONOVSLOV</em></p>
+<p><em>by KONOVALOV</em></p>
 <p>&nbsp;</p>
 
 
