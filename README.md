@@ -3,6 +3,7 @@
 <p>Русский перевод книги от <em>Коновалова Дениса</em></p>
 <p><em>by KONOVALOV</em></p>
 <p>&nbsp;</p>
+
 [Читать:](https://github.com/KONOVALOVda/HackingTheXbox_RUS/blob/main/hacking_xbox_rus.pdf)
 
 https://github.com/KONOVALOVda/HackingTheXbox_RUS/blob/main/hacking_xbox_rus.pdf
