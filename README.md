@@ -5,7 +5,6 @@
 <p>&nbsp;</p>
 
 [[Читать:]](https://drive.google.com/file/d/1qH7nlNx8F9lu_gCiL4raCn2IS8qbBPMO/view?usp=sharing)
-
 https://drive.google.com/file/d/1qH7nlNx8F9lu_gCiL4raCn2IS8qbBPMO/view?usp=sharing
 
 
