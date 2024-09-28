@@ -6,7 +6,7 @@
 
 [[Читать:]](https://drive.google.com/file/d/1qH7nlNx8F9lu_gCiL4raCn2IS8qbBPMO/view?usp=sharing)
 
-[https://github.com/KONOVALOVda/HackingTheXbox_RUS/blob/main/hacking_xbox_rus.pdf](https://drive.google.com/file/d/1qH7nlNx8F9lu_gCiL4raCn2IS8qbBPMO/view?usp=sharing)
+[https://drive.google.com/file/d/1qH7nlNx8F9lu_gCiL4raCn2IS8qbBPMO/view?usp=sharing](https://drive.google.com/file/d/1qH7nlNx8F9lu_gCiL4raCn2IS8qbBPMO/view?usp=sharing)
 
 ![image](https://github.com/user-attachments/assets/fb261d76-8f99-4e9d-975c-97f430631a40)
 
