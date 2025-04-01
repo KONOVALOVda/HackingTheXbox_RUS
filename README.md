@@ -1,5 +1,5 @@
-<p><strong>Hacking XBOX -&nbsp;</strong><em>Andrew &ldquo;bunnie&rdquo; Huang</em></p>
-<p><strong>Взлом XBOX -&nbsp;</strong><em>Эндрю &laquo;Банни&raquo; Хуанг</em></p>
+##перевод книги Hacking XBOX - Andrew bunnie Huang
+## Взлом XBOX - Эндрю Банни Хуанг
 <p>&nbsp;</p>
 
 [[Читать:]](https://drive.google.com/file/d/1qH7nlNx8F9lu_gCiL4raCn2IS8qbBPMO/view?usp=sharing) 
